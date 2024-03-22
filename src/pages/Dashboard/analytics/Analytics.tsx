@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const Analytics = () => {
   return (
     <div>
-      Header
+      Analytics
     </div>
   );
 }
 
-export default Header;
+export default Analytics;

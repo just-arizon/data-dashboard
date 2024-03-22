@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import Dashboard from "./dashboard";
+import Dashboard from "./Dashboard/Dashboard";
 import Header from "./components/Header";
 import SideMenu from "./components/SideMenu";
 
